@@ -133,17 +133,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Create a GUI version
 - [ ] Add encryption strength options
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- Inspired by classic cipher and encoding techniques
-- Built with Python's random and string modules
-
----
-
-⭐ **Star this repository if you found it helpful!** ⭐
